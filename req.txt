@@ -1,0 +1,15 @@
+ pyowm 
+ youtube_dl
+ vlc
+ bs4
+ wikipedia
+ gtts
+ pyttsx3
+ lxml
+ yeelight
+ matplotlib
+ facebook
+ tweepy
+ snowboydecoder
+ signal
+ pyaudio
